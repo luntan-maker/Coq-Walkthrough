@@ -397,10 +397,7 @@ red in |- *.
 auto.
 Qed.
 
-(* 
-Side notes:
-  Source for polynomial functors-potentially: file:///home/a/Downloads/sofp%20(1).pdf
- *)
+
 (* 
 Comments:
 'red.' <-> 'red in |- *.' in this context.
